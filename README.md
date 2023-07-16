@@ -14,9 +14,9 @@ Objetivos:
 
 Dentro de los objetivos se nos solicita cumplir con los siguientes KPIS:
 
-1 - Reducir la inversión de publicidad identificando las provincias de menor cobertura para el 2022 e identificando las 4 regiones donde reforzar la publicidad.
+1 - Reducir la inversión de publicidad identificando las provincias de menor cobertura Y seleccionar aquella provincia que tiene mayor  cantidad clientes. para luego enfocarse en que localidades tenemos mayor cobertura. 
 
-2 - Generar ingresos por fibra optica en los trimestres 3 y 4 del  2022 que superen en un 10% a los ingresos generados  en los mismos trimestres pero del año 2021.
+2 - Determinar si los ingresos por fibra optica en los trimestres 3 y 4 del  2022 superarán un 10% a los ingresos generados en los mismos trimestres pero del año 2021.
 
 3 - Aumentar en un 20% o más las conexiones por fibra óptica para el 2022
 
@@ -48,7 +48,7 @@ Dentro de los objetivos se nos solicita cumplir con los siguientes KPIS:
 
 <img src="https://user-images.githubusercontent.com/60153579/253781355-28f6a4fe-2616-46b0-b8dd-b56519c11bd4.JPG">
 
-### Para el primer trimestre de 2022 los ingresos nacionales por fibra óptica ocupan el segundo lugar con un total de $ 11.001.496
+### Para el primer trimestre de 2022 los ingresos nacionales por fibra óptica ocupan el segundo lugar con un total acumulado de $ 11.001.496
 
 ----
 
@@ -119,3 +119,13 @@ Ingresos expresados en miles generados por Fibra Óptica por trimestre.
 Del año 2018 al año 2019 hay un gran salto. Producto de la inversión en el desarrollo de nuevos Km de tendido de 
 Fibra Óptica. Cordoba pasa de tener 60.470 clientes conectados con fibra óptica a 126.324 clientes en el año 2019. Duplicó rapidamente también su conectividad cómo Bs As. Su punto máximo de clientes se encuentra en el año 2021 con un total de 671.198. Está muy por debajo de lo que es Bs As.
 
+
+Conclusiones:  
+Teniendo en cuenta que en el año 2020 hubo una pandemia que paralizó al mundo. Los ingresos se vieron afectados y quedaron estancados. 
+por eso no se va a tomar en cuenta ese año para realizar las proyecciones. 
+
+1- Se identificaron las provincias con menor desarrollo de fibra óptica y se determinó que la próxima campaña publicitaria va a estar enfocada para la Provincia de Bs As.
+
+2 - En el primer trimestre de 2022 se generaron ingresos por $ 1.764.424,29. Teniendo como referencia que en el primer trimestre de 2021 se generaron $ 587.431,91, ya estaríamos superando un 150% esa relación. El promedio de ingresos para los trimestres del año 2021 y el primer timestre de 2022 es de $ 1.229.878,53. Por lo que se espera obtner un total de $ 5 millones de pesos de ingresos para el año 2022
+
+3 para el primer trimestre de 2022 se registran un total de 2.219.533 conexiones. Por lo que se estima llegar tener 8.000.000 de conexiones totales para todo el año 2022. Sería aproximadamente un 30% mas de los que hubo en el 2021.1 (6.473.506)

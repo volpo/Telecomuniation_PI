@@ -14,11 +14,11 @@ Objetivos:
 
 Dentro de los objetivos se nos solicita cumplir con los siguientes KPIS:
 
-1 - Reducir la inversión de publicidad identificando las provincias de menor cobertura para el 2022 e identificando las regiones donde reforzar la publicidad.
+1 - Reducir la inversión de publicidad identificando las provincias de menor cobertura para el 2022 e identificando las 4 regiones donde reforzar la publicidad.
 
-2 - Generar ingresos por fibra optica en el 2022 que superen en un 100% a los ingresos generados en el año 2021.
+2 - Generar ingresos por fibra optica en los trimestres 3 y 4 del  2022 que superen en un 100% a los ingresos generados  en los mismos trimestres pero del año 2021.
 
-3 - Aumentar en un 50% más las conexiones por fibra óptica para el 2022
+3 - Aumentar en un 50% o más las conexiones por fibra óptica para el 2022
 
 -----
 

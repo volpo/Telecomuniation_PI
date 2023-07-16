@@ -16,9 +16,9 @@ Dentro de los objetivos se nos solicita cumplir con los siguientes KPIS:
 
 1 - Reducir la inversión de publicidad identificando las provincias de menor cobertura para el 2022 e identificando las 4 regiones donde reforzar la publicidad.
 
-2 - Generar ingresos por fibra optica en los trimestres 3 y 4 del  2022 que superen en un 100% a los ingresos generados  en los mismos trimestres pero del año 2021.
+2 - Generar ingresos por fibra optica en los trimestres 3 y 4 del  2022 que superen en un 10% a los ingresos generados  en los mismos trimestres pero del año 2021.
 
-3 - Aumentar en un 50% o más las conexiones por fibra óptica para el 2022
+3 - Aumentar en un 20% o más las conexiones por fibra óptica para el 2022
 
 -----
 
@@ -58,6 +58,14 @@ Dentro de los objetivos se nos solicita cumplir con los siguientes KPIS:
 **Podemos apreciar que la mayor parte de los ingresos es por cable modem, luego ADSL y Fibra Optica con óptimo crecimiento.**
 
 <img src="https://user-images.githubusercontent.com/60153579/253782663-e8a1b963-a10e-4504-b14c-b5418f78ca8c.JPG">
+
+
+Ingresos expresados en miles generados por Fibra Óptica por trimestre.
+
+<img src="https://user-images.githubusercontent.com/60153579/253818946-b2c1da46-2477-4a96-890e-c16b73d29b26.png">
+
+<img src="https://user-images.githubusercontent.com/60153579/253818970-308a77e3-c7ef-4fbc-af87-4c8353565790.JPG">
+
 
 -----
 
